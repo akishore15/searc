@@ -5,4 +5,4 @@
 ; So use Sear-c to modify and clay your very own search engine by forking this repo.
 ; This is why you should use Sear-c to do this.
 ; Thank you,
-; @akishore15
+; @akishore15 on GitHub
